@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0d030faa-15e0-4a41-83e4-6a87c84ac218" height="350px">
+  <img src="https://github.com/user-attachments/assets/e2cc81f1-3da4-4d77-a212-14be29cc6db1" height="400px">
 </div>
 
 # ✨ Hi! I'm Sam, an AI + Software Engineer
