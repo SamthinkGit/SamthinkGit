@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/85934cbc-16bd-4e56-93fd-669e3a8efc34" height="400px">
+</div>
+
 # ✨ Hi! I'm Sam, an AI + Software Engineer
 
 I'm passionate about designing adaptive AI architectures that push boundaries. My focus is on creating algorithms that interact intelligently with their environment to build robust, autonomous solutions.
