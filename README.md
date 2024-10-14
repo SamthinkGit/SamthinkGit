@@ -2,22 +2,16 @@
 
 I'm passionate about designing adaptive AI architectures that push boundaries. My focus is on creating algorithms that interact intelligently with their environment to build robust, autonomous solutions.
 
-## 🚀 About Me
+## ⚡ About Me
 
 - **AI + Robotics Engineering Student** focused on software development and AI behaviors.
-- Skilled in **Python**, **ROS2**, and merging AI with real-world applications.
-- Advocate for **clean code** and **effective communication**.
-
-## ⚡ Current Interests
-
 - **Agentic AI Architectures**: Designing intelligent agents using frameworks like **AutoGPT** and **LangChain**.
 - **AI and Robotics**: Combining **ROS2** with AI for adaptable systems.
-- **High-Performance APIs**: Developing APIs using **FastAPI** to connect AI components.
 
 ## 📚 Skills & Tools
-- **Programming**: Python, C/C++, Java, bash/powershell
+- **Programming**: Python, C/C++, Java, bash/powershell, JavaScript, CSS/HTML
 - **AI Frameworks**: LangChain, Transformers, PyTorch, Scikit-learn, OpenAI APIs
-- **Robotics**: ROS2, rclpy
+- **Robotics**: ROS2, rclpy, rviz2
 
 ## 🌟 Recent Achievements
 - Developed **AI tools and plugins for Powershell/Bash** based on **Llama2**: ([llama2-terminal](https://github.com/SamthinkGit/llama2-terminal)).
