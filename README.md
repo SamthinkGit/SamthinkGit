@@ -14,6 +14,7 @@ I'm passionate about designing adaptive AI architectures that push boundaries. M
 - **Robotics**: ROS2, rclpy, rviz2
 
 ## 🌟 Recent Achievements
+- Designed a **modular AI  architecture for controlling computers** with service orchestration and AI/NLP tooling: ([GU-systems](https://github.com/SamthinkGit/GU-systems)).
 - Developed **AI tools and plugins for Powershell/Bash** based on **Llama2**: ([llama2-terminal](https://github.com/SamthinkGit/llama2-terminal)).
 - Created a **runtime Python analyzer** with **LangChain agents**: ([aiuda](https://github.com/SamthinkGit/aiuda)).
 - Published a guide for **Llama 2** deployment on Windows: ([Llama2-Guide](https://github.com/SamthinkGit/llama2-for-windows)).
